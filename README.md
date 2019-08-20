@@ -1,4 +1,4 @@
-# crypto-studies
+# Cryptography Studies
 A repository for studies in the field of Cryptography. It includes implementations of Caesar's Cypher in both Java and Python.
 
 # Python Implementation
